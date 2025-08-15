@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/wilsontom/wilsontom.r-universe.dev
 	branch = HEAD
+[submodule "gaml2r"]
+	path = gaml2r
+	url = https://github.com/wilsontom/gaml2r
+[submodule "micturate"]
+	path = micturate
+	url = https://github.com/wilsontom/micturate
+[submodule "msconverteR"]
+	path = msconverteR
+	url = https://github.com/wilsontom/msconverteR
+[submodule "nomenclatoR"]
+	path = nomenclatoR
+	url = https://github.com/wilsontom/nomenclatoR
