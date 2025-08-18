@@ -14,3 +14,9 @@
 [submodule "nomenclatoR"]
 	path = nomenclatoR
 	url = https://github.com/wilsontom/nomenclatoR
+[submodule "q3ML"]
+	path = q3ML
+	url = https://github.com/wilsontom/q3ML
+[submodule "slurmwiz"]
+	path = slurmwiz
+	url = https://github.com/wilsontom/slurmwiz
