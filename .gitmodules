@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/wilsontom/wilsontom.r-universe.dev
 	branch = HEAD
+[submodule "cypheR"]
+	path = cypheR
+	url = https://github.com/wilsontom/cypheR
 [submodule "gaml2r"]
 	path = gaml2r
 	url = https://github.com/wilsontom/gaml2r
@@ -19,4 +22,4 @@
 	url = https://github.com/wilsontom/q3ML
 [submodule "slurmwiz"]
 	path = slurmwiz
-	url = https://github.com/wilsontom/slurmwiz
+	url = https://github.com/wilsontom/slurmiwiz
