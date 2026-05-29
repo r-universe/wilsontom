@@ -23,6 +23,9 @@
 [submodule "msconverteR"]
 	path = msconverteR
 	url = https://github.com/wilsontom/msconverteR
+[submodule "mzrust"]
+	path = mzrust
+	url = https://github.com/wilsontom/mzrust
 [submodule "q3ML"]
 	path = q3ML
 	url = https://github.com/wilsontom/q3ML
