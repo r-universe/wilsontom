@@ -2,24 +2,33 @@
 	path = .registry
 	url = https://github.com/wilsontom/wilsontom.r-universe.dev
 	branch = HEAD
-[submodule "cypheR"]
-	path = cypheR
-	url = https://github.com/wilsontom/cypheR
+[submodule "GetSampleInfo"]
+	path = GetSampleInfo
+	url = https://github.com/wilsontom/GetSampleInfo
+[submodule "classyfireR"]
+	path = classyfireR
+	url = https://github.com/wilsontom/classyfireR
+[submodule "forestControl"]
+	path = forestControl
+	url = https://github.com/wilsontom/forestControl
 [submodule "gaml2r"]
 	path = gaml2r
 	url = https://github.com/wilsontom/gaml2r
+[submodule "metabolighteR"]
+	path = metabolighteR
+	url = https://github.com/wilsontom/metabolighteR
 [submodule "micturate"]
 	path = micturate
 	url = https://github.com/wilsontom/micturate
 [submodule "msconverteR"]
 	path = msconverteR
 	url = https://github.com/wilsontom/msconverteR
-[submodule "nomenclatoR"]
-	path = nomenclatoR
-	url = https://github.com/wilsontom/nomenclatoR
 [submodule "q3ML"]
 	path = q3ML
 	url = https://github.com/wilsontom/q3ML
+[submodule "sRm"]
+	path = sRm
+	url = https://github.com/wilsontom/sRm
 [submodule "slurmwiz"]
 	path = slurmwiz
 	url = https://github.com/wilsontom/slurmwiz
