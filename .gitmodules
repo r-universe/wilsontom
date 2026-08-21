@@ -26,6 +26,9 @@
 [submodule "mzrust"]
 	path = mzrust
 	url = https://github.com/wilsontom/mzrust
+[submodule "openSLD"]
+	path = openSLD
+	url = https://github.com/wilsontom/openSLD
 [submodule "q3ML"]
 	path = q3ML
 	url = https://github.com/wilsontom/q3ML
